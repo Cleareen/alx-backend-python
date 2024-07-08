@@ -16,7 +16,6 @@ _For this project, look at these concepts:_
 **Read or watch:**
 
 * [Python 3 typing documentation](https://www.docs.python.org/3/library/typing.html)
-* [MyPy cheat sheet](https://www.mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
 
 ## General Requirements
 
@@ -46,5 +45,3 @@ _For this project, look at these concepts:_
   print(var.__annotations__)
   ```
 </details>
-
-## Finally...
